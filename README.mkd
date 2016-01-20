@@ -1,0 +1,5 @@
+
+# go-sakimonoteguchi
+
+This helps you to save 先物手口 as csv files.
+
